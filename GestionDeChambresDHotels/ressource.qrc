@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="trash">3844425_can_trash_icon.svg</file>
+        <file alias="edit">8666681_edit_icon.svg</file>
+        <file alias="tras">8726424_trash_alt_icon.svg</file>
+        <file>C:/Users/PC-QUEREN/Downloads/hotels.png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/connexion (4).png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/connexion (3).png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/connexion (2).png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/connexion (1).png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/connexion.png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/chercher.png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/telecharger.png</file>
+        <file>C:/Users/PC-QUEREN/Downloads/plus.png</file>
+    </qresource>
+    <qresource prefix="/bdd">
+        <file alias="hotelDb">gestionDeChambres.db</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file alias="bg_rose_bleu">C:/Users/PC-QUEREN/Downloads/abstract-gradient-pink-purple-blue-600nw-1177024156.webp</file>
+    </qresource>
+</RCC>
